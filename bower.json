@@ -1,0 +1,21 @@
+{
+  "name": "vaadin-angular",
+  "description": "",
+  "main": "",
+  "authors": [
+    "Peter Blazejewicz"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/peterblazejewicz/vaadin-angular-polymer",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "src/assets/bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "app-layout": "PolymerElements/app-layout#^0.10.5"
+  }
+}
